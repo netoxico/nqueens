@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/netoxico/nqueens.svg?branch=master)](https://travis-ci.org/netoxico/nqueens)
 # nqueens
 
 Set required environment variables in a `.env` file
