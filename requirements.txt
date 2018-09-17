@@ -1,0 +1,4 @@
+psycopg2==2.7.5
+SQLAlchemy==1.2.11
+click==6.7
+pytest==3.8.0
