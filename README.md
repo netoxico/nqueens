@@ -29,7 +29,7 @@ Execute nqueens for n = 8
 docker-compose exec app python nqueens.py --n 8
 ```
 
-Execuote nqueen and store each result in postgres
+Execute nqueens and store each result in postgres
 ```.bash
 docker-compose exec app python nqueens.py --n 8 --save
 ```
