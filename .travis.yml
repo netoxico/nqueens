@@ -1,0 +1,9 @@
+sudo: no
+language: python
+python:
+  - 3.6
+install:
+  - pip install -r requirements.txt
+script:
+  - cd app
+  - pytest
